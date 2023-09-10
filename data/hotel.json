@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "hotel_name": "Seaside Paradise Hotel",
+    "room_name": "Standard Double Room",
+    "number_of_rooms": 20,
+    "rating": 4.0,
+    "price_per_night": "$150",
+    "image_url": "https://i.ibb.co/M6wmY49/bg-1-hotel-1.jpg"
+  },
+  {
+    "id": 2,
+    "category_id": 2,
+    "hotel_name": "Mountain View Lodge",
+    "room_name": "Mountain-View Suite",
+    "number_of_rooms": 8,
+    "rating": 4.8,
+    "price_per_night": "$300",
+    "image_url": "https://i.ibb.co/M6wmY49/bg-1-hotel-1.jpg"
+  },
+  {
+    "id": 3,
+    "category_id": 3,
+    "hotel_name": "Urban Oasis Hotel",
+    "room_name": "City-View Deluxe Room",
+    "number_of_rooms": 15,
+    "rating": 4.5,
+    "price_per_night": "$200",
+    "image_url": "https://i.ibb.co/s29NPK3/bg-1-hotel-2.jpg"
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "hotel_name": "Riverside Retreat",
+    "room_name": "Riverside Cabin",
+    "number_of_rooms": 12,
+    "rating": 4.2,
+    "price_per_night": "$180",
+    "image_url": "https://i.ibb.co/y8YJRwz/bg-1-hotel-3.jpg"
+  },
+  {
+    "id": 5,
+    "category_id": 2,
+    "hotel_name": "Desert Mirage Resort",
+    "room_name": "Desert Oasis Suite",
+    "number_of_rooms": 6,
+    "rating": 4.7,
+    "price_per_night": "$350",
+    "image_url": "https://i.ibb.co/K6n5JMY/bg-2-hotel-1.jpg"
+  },
+  {
+    "id": 6,
+    "category_id": 3,
+    "hotel_name": "Historic Elegance Inn",
+    "room_name": "Antique Suite",
+    "number_of_rooms": 5,
+    "rating": 4.9,
+    "price_per_night": "$280",
+    "image_url": "https://i.ibb.co/q1Q1p0N/bg-2-hotel-3.jpg"
+  },
+  {
+    "id": 7,
+    "category_id": 1,
+    "hotel_name": "Cozy Cottage Inn",
+    "room_name": "Cozy Cottage Room",
+    "number_of_rooms": 10,
+    "rating": 4.4,
+    "price_per_night": "$120",
+    "image_url": "https://i.ibb.co/fdsv5Gn/bg-3-hotel-1.jpg"
+  },
+  {
+    "id": 8,
+    "category_id": 2,
+    "hotel_name": "Tropical Paradise Resort",
+    "room_name": "Tropical Villa",
+    "number_of_rooms": 7,
+    "rating": 4.6,
+    "price_per_night": "$280",
+    "image_url": "https://i.ibb.co/j3p7RxT/bg-3-hotel-2.jpg"
+  },
+  {
+    "id": 9,
+    "category_id": 3,
+    "hotel_name": "Lakeview Lodge",
+    "room_name": "Lake-View Suite",
+    "number_of_rooms": 9,
+    "rating": 4.3,
+    "price_per_night": "$220",
+    "image_url": "https://i.ibb.co/WySfYny/bg-3-hotel-3.jpg"
+  }
+]
